@@ -12,7 +12,7 @@ function crearClaseLibro() {
 
     getTitulo() {
       // este método debe retornar el titulo del libro.
-      // Tu código aca:
+      // Tu código aca: gordilla
       
     }
 
