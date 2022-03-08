@@ -5,6 +5,7 @@ function invertirOrden(array) {
     //
     // DETALLE: En caso de que el elemento contenga mas de 1 digito, el mismo NO debera ser devuelto
     // No vale usar el metodo "reverse"
+    // Veamos el cambio
     
  
 };
